@@ -18,7 +18,7 @@ echo "\nMasukkan judul buku: ";
 $judulBuku = trim(string: fgets(STDIN)); // String
 
 echo "\nMasukkan jumlah buku: ";
-$jumlahBuku = trim(fgets(STDIN)); // Integer
+$jumlahBuku = (int) trim(fgets(STDIN)); // Integer
 
 $hargaBuku = 85000; // Integer
 
@@ -31,4 +31,5 @@ echo "| ". str_pad("Buku", 20) . " | " .  str_pad($judulBuku, 30) . " | \n";
 echo "| ". str_pad("Harga", 20) . " | " . str_pad($hargaBuku, 30) .  " | \n";
 echo "| ". str_pad("Jumlah", 20) . " | " . str_pad($jumlahBuku, 30) .  " | \n";
 echo "| ". str_pad("Total", 20) . " | " . str_pad($totalHargaBuku, 30) .  " | \n";
+
 echo "=========================================================\n";
