@@ -1,0 +1,20 @@
+Judul Studi Kasus: Keranjang Belanja Toko Buku Online
+Deskripsi Situasi:
+
+Anda adalah seorang programmer yang ditugaskan untuk membuat fitur sederhana pada sistem kasir sebuah toko buku online bernama "Cahaya Ilmu". Seorang pelanggan baru saja selesai memilih buku dan akan melakukan pembayaran.
+
+Sistem perlu mencatat informasi detail mengenai transaksi tersebut sebelum mencetak struk. Informasi yang harus Anda kelola adalah sebagai berikut:
+
+1. Nama Pelanggan: Budi Santoso
+2. Judul Buku yang Dibeli: "Dasar-Dasar Pemrograman Web"
+3. Jumlah Buku yang Dibeli: 2 buah
+4. Harga Satuan Buku: Rp 85.000
+5. Status Keanggotaan (Member): Pelanggan tersebut adalah seorang member (ya/benar).
+
+Total Harga Awal: (perkalian antara jumlah buku dan harga satuan)
+
+Tugas:
+1. Tentukan variable yang akan digunakan
+2. Tentukan fungsi yang akan digunakan
+3. Contoh script implementasi
+4. Mengumpulkan dan mengisi daftar hadir pada link : 
