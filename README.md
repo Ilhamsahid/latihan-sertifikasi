@@ -2,4 +2,6 @@
 LATIHAN
 
 jalaninnya
+```
 php namafile.php
+```
