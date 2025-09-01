@@ -1,5 +1,5 @@
 # latihan-sertifikasi
-CUMA LATIHAN
+LATIHAN
 
 jalaninnya
 php namafile.php
