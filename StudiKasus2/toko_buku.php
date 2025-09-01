@@ -10,12 +10,12 @@ while($isMember === null){
     $input = trim(fgets(STDIN)); // String
 
     if($input == 'y' || $input == 't'){
-        $isMember = $isMember === 'y'; // Boolean
+        $isMember = $input === 'y'; // Boolean
     }
 }
 
 echo "\nMasukkan judul buku: ";
-$judulBuku = trim(string: fgets(STDIN)); // String
+$judulBuku = trim(fgets(STDIN)); // String
 
 echo "\nMasukkan jumlah buku: ";
 $jumlahBuku = (int) trim(fgets(STDIN)); // Integer
@@ -33,3 +33,4 @@ echo "| ". str_pad("Jumlah", 20) . " | " . str_pad($jumlahBuku, 30) .  " | \n";
 echo "| ". str_pad("Total", 20) . " | " . str_pad($totalHargaBuku, 30) .  " | \n";
 
 echo "=========================================================\n";
+
