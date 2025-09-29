@@ -1,0 +1,18 @@
+{
+    "name": "ilham/4_composer_library",
+    "description": "iiya",
+    "autoload": {
+        "psr-4": {
+            "Ilham\\4ComposerLibrary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ilhamsahid",
+            "email": "ilhamsahit988@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.24"
+    }
+}

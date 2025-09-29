@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "nama": "Vanesa Laksmiwati",
+        "usia": 16,
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": 2,
+        "nama": "Kania Intan Pratiwi S.Farm",
+        "usia": 16,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 3,
+        "nama": "Olga Jayeng Mahendra",
+        "usia": 17,
+        "kelas": "X RPL 1"
+    },
+    {
+        "id": 4,
+        "nama": "Atmaja Prabowo",
+        "usia": 18,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 5,
+        "nama": "Taswir Kuswoyo S.Pt",
+        "usia": 19,
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": 6,
+        "nama": "Natalia Prastuti S.Sos",
+        "usia": 16,
+        "kelas": "XI RPL 2"
+    },
+    {
+        "id": 7,
+        "nama": "Jasmani Firgantoro",
+        "usia": 18,
+        "kelas": "X RPL 1"
+    },
+    {
+        "id": 8,
+        "nama": "Adhiarja Irawan",
+        "usia": 18,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 9,
+        "nama": "Belinda Wahyuni M.Pd",
+        "usia": 16,
+        "kelas": "X RPL 2"
+    },
+    {
+        "id": 10,
+        "nama": "Salimah Tami Handayani",
+        "usia": 15,
+        "kelas": "X RPL 2"
+    },
+    {
+        "id": 11,
+        "nama": "Shania Kusmawati",
+        "usia": 17,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 12,
+        "nama": "Halima Mardhiyah S.I.Kom",
+        "usia": 19,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 13,
+        "nama": "Baktianto Agus Santoso",
+        "usia": 16,
+        "kelas": "X RPL 1"
+    },
+    {
+        "id": 14,
+        "nama": "Ayu Eli Sudiati M.M.",
+        "usia": 16,
+        "kelas": "X RPL 1"
+    },
+    {
+        "id": 15,
+        "nama": "Septi Pratiwi",
+        "usia": 15,
+        "kelas": "XI RPL 1"
+    },
+    {
+        "id": 16,
+        "nama": "Prima Latupono",
+        "usia": 17,
+        "kelas": "XII RPL 2"
+    },
+    {
+        "id": 17,
+        "nama": "Bakijan Warji Kurniawan S.Sos",
+        "usia": 19,
+        "kelas": "X RPL 2"
+    },
+    {
+        "id": 18,
+        "nama": "Oman Anggriawan M.Farm",
+        "usia": 19,
+        "kelas": "X RPL 2"
+    },
+    {
+        "id": 19,
+        "nama": "Ega Pranowo",
+        "usia": 19,
+        "kelas": "X RPL 2"
+    },
+    {
+        "id": 20,
+        "nama": "Jaeman Hutagalung",
+        "usia": 15,
+        "kelas": "XI RPL 1"
+    }
+]

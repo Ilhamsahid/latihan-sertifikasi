@@ -1,0 +1,10 @@
+{
+    "name": "ilham/3_stack_queue",
+    "description": "aa",
+    "autoload": {
+        "psr-4": {
+            "Ilham\\3StackQueue\\": "src/"
+        }
+    },
+    "require": {}
+}
